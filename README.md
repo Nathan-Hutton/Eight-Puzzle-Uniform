@@ -1,0 +1,1 @@
+Solving 8 puzzle problem with Depth-Limited-Search and Breadth-First-Search (uninformed method). Example of how to run using first puzzle with BFS: python eight_puzzle_uninform.py -array 0 -algorithm 1
